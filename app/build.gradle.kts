@@ -53,8 +53,6 @@ dependencies {
     implementation(libs.androidx.fragment)
     implementation(libs.androidx.navigation.ui)
     implementation(libs.androidx.navigation.fragment)
-//    implementation(libs.android.support.v4)
-//    implementation(libs.androidx.swiperefreshlayout)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
